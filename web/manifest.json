@@ -1,6 +1,6 @@
 {
-    "name": "myfishing",
-    "short_name": "myfishing",
+    "name": "classico",
+    "short_name": "classico",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
